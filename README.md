@@ -81,16 +81,15 @@ They can place an order by simply clicking on the place order button after that 
 
 
 ## Creators  🤝🏻	
-
-#### Rahul Konda  [GitHub](https://github.com/Rahulk612) :octocat:
-
-#### Kavya [GitHub](https://github.com/kavya-2021) :octocat:
-
 #### Ravindra Sham Pawar [GitHub](https://github.com/Ravindraapps) :octocat:
 
 #### Ashwini Rathod [GitHub](https://github.com/rathodashwini990) :octocat:
 
-#### Abhishek [GitHub] :octocat:
+#### Rahul Konda  [GitHub](https://github.com/Rahulk612) :octocat:
+
+#### Kavya Vankadara[GitHub](https://github.com/kavya-2021) :octocat:
+
+#### Abhishek Kumar[GitHub] :octocat:
 
 
 
