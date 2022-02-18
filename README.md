@@ -87,7 +87,7 @@ They can place an order by simply clicking on the place order button after that 
 
 #### Rahul Konda  [GitHub](https://github.com/Rahulk612) :octocat:
 
-#### Kavya Vankadara[GitHub](https://github.com/kavya-2021) :octocat:
+#### Kavya Vankadara [GitHub](https://github.com/kavya-2021) :octocat:
 
 #### Abhishek Kumar[GitHub] :octocat:
 
